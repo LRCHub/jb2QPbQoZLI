@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SPACE INVADER",
+  "base_artist": "ケイトラナダ",
+  "createdAt": "2026-02-14T06:23:39.279590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Space Invader",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/01_Space_Invader_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Are The Space Invader",
+      "artist": "Prinzhorn Dance School",
+      "has_synced": false,
+      "path": "select/02_You_Are_The_Space_Invader_Prinzhorn_Dance_School.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Personal Space Invader",
+      "artist": "Sugar Ray",
+      "has_synced": true,
+      "path": "select/03_Personal_Space_Invader_Sugar_Ray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Suburban Space Invader",
+      "artist": "The Asteroids Galaxy Tour",
+      "has_synced": false,
+      "path": "select/04_Suburban_Space_Invader_The_Asteroids_Galaxy_Tour.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Space Invader",
+      "artist": "Ace Frehley",
+      "has_synced": true,
+      "path": "select/05_Space_Invader_Ace_Frehley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Space Invader (Radio Edit)",
+      "artist": "Ace Frehley",
+      "has_synced": true,
+      "path": "select/06_Space_Invader_(Radio_Edit)_Ace_Frehley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Personal Space Invader",
+      "artist": "AJJ",
+      "has_synced": true,
+      "path": "select/07_Personal_Space_Invader_AJJ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Space Invader",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/08_Space_Invader_The_National.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Space Invader",
+      "artist": "S3RL feat. Sara",
+      "has_synced": false,
+      "path": "select/09_Space_Invader_S3RL_feat._Sara.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Space Invader - Original Mix",
+      "artist": "S3RL feat. Sara",
+      "has_synced": true,
+      "path": "select/10_Space_Invader_-_Original_Mix_S3RL_feat._Sara.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Space Invader - Original Mix",
+      "artist": "S3RL, Sara",
+      "has_synced": true,
+      "path": "select/11_Space_Invader_-_Original_Mix_S3RL,_Sara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Space Invader (X-Fir3 Remix)",
+      "artist": "S3RL",
+      "has_synced": false,
+      "path": "select/12_Space_Invader_(X-Fir3_Remix)_S3RL.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Space Invader - X-Fir3 Remix",
+      "artist": "S3RL",
+      "has_synced": false,
+      "path": "select/13_Space_Invader_-_X-Fir3_Remix_S3RL.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Space Invader",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/14_Space_Invader_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Personal Space Invader",
+      "artist": "Sugar Ray",
+      "has_synced": true,
+      "path": "select/15_Personal_Space_Invader_Sugar_Ray.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Space Invader",
+      "artist": "Trocadero",
+      "has_synced": false,
+      "path": "select/16_Space_Invader_Trocadero.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Personal Space Invader - Live At Bottom of the Hill",
+      "artist": "Andrew Jackson Jihad feat. O Pioneers!!!",
+      "has_synced": false,
+      "path": "select/17_Personal_Space_Invader_-_Live_At_Bottom_of_the_Hill_Andrew_Jackson_Jihad_feat._O_Pioneers!!!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPACE INVADER",
+      "artist": "KAYTRANADA",
+      "has_synced": false,
+      "path": "select/pl_01_SPACE_INVADER_KAYTRANADA.txt"
+    }
+  ]
+}
