@@ -1,0 +1,74 @@
+# ケイトラナダ – SPACE INVADER
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Oh-oh-oh, oh-oh-oh
+Oh-oh-oh, oh-oh-oh
+(Gotta get away sometimes
+Gotta get away sometimes)
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+(Wanna get away)
+Gotta get away sometimes
+Gotta get away some—
+Gotta get aw—
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get aw—
+(Ooh)
+(Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes)
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+(Wanna get away)
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away
+Gotta get away
+Away, away, away
+(Oh-I)
+Gotta get aw—
+Gotta get aw—
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get away sometimes
+Gotta get aw—
+Oh-oh-oh, oh-oh-oh
+Oh-oh-oh, oh-oh-oh
+```
